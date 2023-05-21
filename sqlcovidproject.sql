@@ -73,7 +73,7 @@ and dea.date = vac.date
 where dea.continent is not null
 --order by  2, 3
 )
-
+select * from PopvsVac
 --USE CTE
 
 
